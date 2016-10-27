@@ -1,3 +1,6 @@
 Hello rakesh
 how are things going on with chefdo
 good
+
+1st change:changes made from remote
+2nd change: qq
